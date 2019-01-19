@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">tensorTest</string>
+    <string name="title_friends">Друзья</string>
+    <string name="title_сolleagues">Коллеги</string>
+    <string name="title_edit">Редактирование профиля</string>
+    <string name="title_add">Добавить</string>
+
+    <string name="name">Имя</string>
+    <string name="first_name">Фамилия</string>
+    <string name="middle_name">Отчество*</string>
+    <string name="work_phone">Рабочий телефон</string>
+    <string name="position">Должность</string>
+    <string name="mobile_phone">Мобильный телефон</string>
+    <string name="birth">День рождения</string>
+    <string name="info">* Поля необязательные для заполнения</string>
+    <string name="save_text">Сохранить изменения</string>
+
+    <string name="fio">Имя Фамилия Отчество</string>
+    <string name="_00000000">Дата рождения: 00000000</string>
+    <string name="_000000000000">Телефон: +000000000000</string>
+    <string name="phone_pattern">Рабочий телефон: +00000000</string>
+    <string name="position_pattern">Рабочий</string>
+    <string name="title_add_friend"> друга</string>
+    <string name="title_add_colleague"> коллегу</string>
+</resources>
